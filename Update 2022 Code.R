@@ -49,6 +49,10 @@ theme_reach <- function() {
     )
 }
 
+#create transparent function to make logos transparent in viz
+transparent <- function(img) {
+  magick::image_fx(img,expression = "0.8*a", channel = "alpha")
+}
 
 #get NBA Team information (logos,colors,etc)
 
