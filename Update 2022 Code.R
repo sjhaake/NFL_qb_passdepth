@@ -33,6 +33,23 @@
   library(tidyverse)
 }
 
+#for scraping I seem to have to increase connection size
+Sys.setenv("VROOM_CONNECTION_SIZE" = 131072*2)
+
+#add in theme from tejseth that I stole that approximates 538's theme (Thank you!)
+theme_reach <- function() {
+  theme_fivethirtyeight() +
+    theme(
+      legend.position = "none",
+      plot.title = element_text(size = 20, hjust = 0.5, face = "bold"),
+      plot.subtitle = element_text(size = 15, hjust = 0.5),
+      axis.title.x = element_text(size=16),
+      axis.title.y = element_text(size=16),
+      axis.text = element_text(size = 12)
+    )
+}
+
+
 #get NBA Team information (logos,colors,etc)
 
 nbateams <- nbastatR::nba_teams()
