@@ -275,6 +275,13 @@ db2022 <- bind_rows(
 )
 
 #calculate Four Factors (SFF) along with wins/losses
+##weightings calculated based on 2021 season, can use different weightings as you see fit (originally D. Oliver's weightings were much different)
+
+x=0.4955527 #weighting factor for eFG
+y=0.1586399 #oreb
+z=0.3027263 #tov
+q=0.04308112 #fta
+
 db2022 <- db2022 %>% mutate(
   SFF = x*pctEFG + y*pctOREB - z*(pctTOVTeam/100) + q*rateFTA,
   SFF_opp = x*pctEFGOpponent + y*pctOREBOpponent - z*(pctTOVOpponent) + q*rateFTAOpponent,
