@@ -1,0 +1,273 @@
+"","QB","yd_10_segments","att","completions","cp"
+"1","A.Dalton","10yd to 20yd",35,19,54.2857142857143
+"2","A.Dalton","20yd to 30yd",5,1,20
+"3","A.Dalton","30yd to 40yd",3,1,33.3333333333333
+"4","A.Dalton","40yd to 50yd",1,1,100
+"5","A.Dalton","Behind LOS",23,20,86.9565217391304
+"6","A.Dalton","LOS to 10yd",86,56,65.1162790697674
+"7","A.Rodgers","10yd to 20yd",60,34,56.6666666666667
+"8","A.Rodgers","20yd to 30yd",27,13,48.1481481481481
+"9","A.Rodgers","30yd to 40yd",18,5,27.7777777777778
+"10","A.Rodgers","40yd to 50yd",10,2,20
+"11","A.Rodgers","Behind LOS",76,64,84.2105263157895
+"12","A.Rodgers","LOS to 10yd",177,129,72.8813559322034
+"13","A.Rodgers","Over 50yd",2,0,0
+"14","B.Mayfield","10yd to 20yd",69,34,49.2753623188406
+"15","B.Mayfield","20yd to 30yd",35,15,42.8571428571429
+"16","B.Mayfield","30yd to 40yd",12,2,16.6666666666667
+"17","B.Mayfield","40yd to 50yd",2,2,100
+"18","B.Mayfield","Behind LOS",52,45,86.5384615384615
+"19","B.Mayfield","LOS to 10yd",137,95,69.3430656934307
+"20","B.Mayfield","Over 50yd",3,1,33.3333333333333
+"21","B.Roethlisberger","10yd to 20yd",76,40,52.6315789473684
+"22","B.Roethlisberger","20yd to 30yd",32,8,25
+"23","B.Roethlisberger","30yd to 40yd",12,5,41.6666666666667
+"24","B.Roethlisberger","40yd to 50yd",4,2,50
+"25","B.Roethlisberger","Behind LOS",69,58,84.0579710144928
+"26","B.Roethlisberger","LOS to 10yd",221,157,71.0407239819005
+"27","C.McCoy","10yd to 20yd",17,10,58.8235294117647
+"28","C.McCoy","20yd to 30yd",3,0,0
+"29","C.McCoy","30yd to 40yd",2,2,100
+"30","C.McCoy","Behind LOS",26,25,96.1538461538462
+"31","C.McCoy","LOS to 10yd",42,31,73.8095238095238
+"32","C.Newton","10yd to 20yd",10,5,50
+"33","C.Newton","20yd to 30yd",1,1,100
+"34","C.Newton","30yd to 40yd",2,1,50
+"35","C.Newton","Behind LOS",7,5,71.4285714285714
+"36","C.Newton","LOS to 10yd",32,17,53.125
+"37","C.Wentz","10yd to 20yd",77,41,53.2467532467532
+"38","C.Wentz","20yd to 30yd",25,12,48
+"39","C.Wentz","30yd to 40yd",11,2,18.1818181818182
+"40","C.Wentz","40yd to 50yd",7,2,28.5714285714286
+"41","C.Wentz","Behind LOS",76,56,73.6842105263158
+"42","C.Wentz","LOS to 10yd",220,150,68.1818181818182
+"43","C.Wentz","Over 50yd",4,3,75
+"44","D.Carr","10yd to 20yd",85,52,61.1764705882353
+"45","D.Carr","20yd to 30yd",43,21,48.8372093023256
+"46","D.Carr","30yd to 40yd",11,4,36.3636363636364
+"47","D.Carr","40yd to 50yd",10,5,50
+"48","D.Carr","Behind LOS",78,63,80.7692307692308
+"49","D.Carr","LOS to 10yd",217,162,74.6543778801843
+"50","D.Carr","Over 50yd",5,0,0
+"51","D.Jones","10yd to 20yd",80,48,60
+"52","D.Jones","20yd to 30yd",14,2,14.2857142857143
+"53","D.Jones","30yd to 40yd",9,4,44.4444444444444
+"54","D.Jones","40yd to 50yd",3,1,33.3333333333333
+"55","D.Jones","Behind LOS",52,47,90.3846153846154
+"56","D.Jones","LOS to 10yd",201,129,64.1791044776119
+"57","D.Jones","Over 50yd",1,1,100
+"58","D.Mills","10yd to 20yd",41,22,53.6585365853659
+"59","D.Mills","20yd to 30yd",12,6,50
+"60","D.Mills","30yd to 40yd",8,2,25
+"61","D.Mills","40yd to 50yd",1,0,0
+"62","D.Mills","Behind LOS",44,33,75
+"63","D.Mills","LOS to 10yd",115,83,72.1739130434783
+"64","D.Mills","Over 50yd",1,0,0
+"65","D.Prescott","10yd to 20yd",86,44,51.1627906976744
+"66","D.Prescott","20yd to 30yd",38,16,42.1052631578947
+"67","D.Prescott","30yd to 40yd",10,4,40
+"68","D.Prescott","40yd to 50yd",4,1,25
+"69","D.Prescott","Behind LOS",70,58,82.8571428571429
+"70","D.Prescott","LOS to 10yd",206,164,79.6116504854369
+"71","D.Prescott","Over 50yd",2,0,0
+"72","G.Smith","10yd to 20yd",18,6,33.3333333333333
+"73","G.Smith","20yd to 30yd",7,5,71.4285714285714
+"74","G.Smith","30yd to 40yd",2,0,0
+"75","G.Smith","Behind LOS",15,13,86.6666666666667
+"76","G.Smith","LOS to 10yd",52,41,78.8461538461538
+"77","J.Allen","10yd to 20yd",78,40,51.2820512820513
+"78","J.Allen","20yd to 30yd",24,13,54.1666666666667
+"79","J.Allen","30yd to 40yd",14,10,71.4285714285714
+"80","J.Allen","40yd to 50yd",6,2,33.3333333333333
+"81","J.Allen","Behind LOS",69,52,75.3623188405797
+"82","J.Allen","LOS to 10yd",175,125,71.4285714285714
+"83","J.Allen","Over 50yd",1,0,0
+"84","J.Brissett","10yd to 20yd",39,18,46.1538461538462
+"85","J.Brissett","20yd to 30yd",11,7,63.6363636363636
+"86","J.Brissett","30yd to 40yd",5,0,0
+"87","J.Brissett","40yd to 50yd",5,1,20
+"88","J.Brissett","Behind LOS",33,26,78.7878787878788
+"89","J.Brissett","LOS to 10yd",130,89,68.4615384615385
+"90","J.Brissett","Over 50yd",1,0,0
+"91","J.Burrow","10yd to 20yd",73,46,63.013698630137
+"92","J.Burrow","20yd to 30yd",19,7,36.8421052631579
+"93","J.Burrow","30yd to 40yd",17,7,41.1764705882353
+"94","J.Burrow","40yd to 50yd",8,3,37.5
+"95","J.Burrow","Behind LOS",43,37,86.046511627907
+"96","J.Burrow","LOS to 10yd",216,159,73.6111111111111
+"97","J.Burrow","Over 50yd",1,0,0
+"98","J.Fields","10yd to 20yd",50,25,50
+"99","J.Fields","20yd to 30yd",20,13,65
+"100","J.Fields","30yd to 40yd",8,1,12.5
+"101","J.Fields","40yd to 50yd",7,2,28.5714285714286
+"102","J.Fields","Behind LOS",19,14,73.6842105263158
+"103","J.Fields","LOS to 10yd",91,60,65.9340659340659
+"104","J.Fields","Over 50yd",2,0,0
+"105","J.Garoppolo","10yd to 20yd",73,52,71.2328767123288
+"106","J.Garoppolo","20yd to 30yd",22,7,31.8181818181818
+"107","J.Garoppolo","30yd to 40yd",2,0,0
+"108","J.Garoppolo","40yd to 50yd",2,1,50
+"109","J.Garoppolo","Behind LOS",47,34,72.3404255319149
+"110","J.Garoppolo","LOS to 10yd",162,114,70.3703703703704
+"111","J.Goff","10yd to 20yd",58,30,51.7241379310345
+"112","J.Goff","20yd to 30yd",28,9,32.1428571428571
+"113","J.Goff","30yd to 40yd",6,2,33.3333333333333
+"114","J.Goff","40yd to 50yd",3,0,0
+"115","J.Goff","Behind LOS",70,59,84.2857142857143
+"116","J.Goff","LOS to 10yd",228,166,72.8070175438597
+"117","J.Goff","Over 50yd",1,0,0
+"118","J.Herbert","10yd to 20yd",90,51,56.6666666666667
+"119","J.Herbert","20yd to 30yd",26,11,42.3076923076923
+"120","J.Herbert","30yd to 40yd",12,4,33.3333333333333
+"121","J.Herbert","40yd to 50yd",6,4,66.6666666666667
+"122","J.Herbert","Behind LOS",68,55,80.8823529411765
+"123","J.Herbert","LOS to 10yd",269,190,70.6319702602231
+"124","J.Herbert","Over 50yd",1,0,0
+"125","J.Hurts","10yd to 20yd",82,42,51.219512195122
+"126","J.Hurts","20yd to 30yd",27,11,40.7407407407407
+"127","J.Hurts","30yd to 40yd",16,3,18.75
+"128","J.Hurts","40yd to 50yd",6,2,33.3333333333333
+"129","J.Hurts","Behind LOS",55,50,90.9090909090909
+"130","J.Hurts","LOS to 10yd",160,103,64.375
+"131","J.Hurts","Over 50yd",3,0,0
+"132","J.Winston","10yd to 20yd",35,18,51.4285714285714
+"133","J.Winston","20yd to 30yd",8,2,25
+"134","J.Winston","30yd to 40yd",7,0,0
+"135","J.Winston","40yd to 50yd",5,3,60
+"136","J.Winston","Behind LOS",31,22,70.9677419354839
+"137","J.Winston","LOS to 10yd",74,49,66.2162162162162
+"138","J.Winston","Over 50yd",1,1,100
+"139","K.Cousins","10yd to 20yd",85,59,69.4117647058823
+"140","K.Cousins","20yd to 30yd",35,17,48.5714285714286
+"141","K.Cousins","30yd to 40yd",11,3,27.2727272727273
+"142","K.Cousins","40yd to 50yd",6,3,50
+"143","K.Cousins","Behind LOS",79,62,78.4810126582278
+"144","K.Cousins","LOS to 10yd",226,162,71.6814159292035
+"145","K.Cousins","Over 50yd",1,0,0
+"146","K.Murray","10yd to 20yd",49,32,65.3061224489796
+"147","K.Murray","20yd to 30yd",28,17,60.7142857142857
+"148","K.Murray","30yd to 40yd",10,6,60
+"149","K.Murray","40yd to 50yd",4,1,25
+"150","K.Murray","Behind LOS",61,54,88.5245901639344
+"151","K.Murray","LOS to 10yd",119,87,73.109243697479
+"152","L.Jackson","10yd to 20yd",75,45,60
+"153","L.Jackson","20yd to 30yd",29,12,41.3793103448276
+"154","L.Jackson","30yd to 40yd",13,2,15.3846153846154
+"155","L.Jackson","40yd to 50yd",11,3,27.2727272727273
+"156","L.Jackson","Behind LOS",43,33,76.7441860465116
+"157","L.Jackson","LOS to 10yd",202,147,72.7722772277228
+"158","L.Jackson","Over 50yd",1,0,0
+"159","M.Glennon","10yd to 20yd",20,10,50
+"160","M.Glennon","20yd to 30yd",3,1,33.3333333333333
+"161","M.Glennon","40yd to 50yd",1,0,0
+"162","M.Glennon","Behind LOS",13,12,92.3076923076923
+"163","M.Glennon","LOS to 10yd",29,16,55.1724137931034
+"164","M.Glennon","Over 50yd",1,0,0
+"165","M.Jones","10yd to 20yd",69,42,60.8695652173913
+"166","M.Jones","20yd to 30yd",30,11,36.6666666666667
+"167","M.Jones","30yd to 40yd",11,4,36.3636363636364
+"168","M.Jones","40yd to 50yd",3,0,0
+"169","M.Jones","Behind LOS",62,54,87.0967741935484
+"170","M.Jones","LOS to 10yd",205,157,76.5853658536585
+"171","M.Ryan","10yd to 20yd",85,53,62.3529411764706
+"172","M.Ryan","20yd to 30yd",15,7,46.6666666666667
+"173","M.Ryan","30yd to 40yd",8,4,50
+"174","M.Ryan","40yd to 50yd",4,1,25
+"175","M.Ryan","Behind LOS",67,53,79.1044776119403
+"176","M.Ryan","LOS to 10yd",240,168,70
+"177","M.Stafford","10yd to 20yd",97,59,60.8247422680412
+"178","M.Stafford","20yd to 30yd",33,12,36.3636363636364
+"179","M.Stafford","30yd to 40yd",11,4,36.3636363636364
+"180","M.Stafford","40yd to 50yd",9,5,55.5555555555556
+"181","M.Stafford","Behind LOS",65,54,83.0769230769231
+"182","M.Stafford","LOS to 10yd",220,157,71.3636363636364
+"183","M.Stafford","Over 50yd",3,1,33.3333333333333
+"184","M.White","10yd to 20yd",30,16,53.3333333333333
+"185","M.White","20yd to 30yd",7,3,42.8571428571429
+"186","M.White","30yd to 40yd",1,0,0
+"187","M.White","40yd to 50yd",1,0,0
+"188","M.White","Behind LOS",21,18,85.7142857142857
+"189","M.White","LOS to 10yd",72,51,70.8333333333333
+"190","P.Mahomes","10yd to 20yd",87,45,51.7241379310345
+"191","P.Mahomes","20yd to 30yd",33,15,45.4545454545455
+"192","P.Mahomes","30yd to 40yd",9,2,22.2222222222222
+"193","P.Mahomes","40yd to 50yd",10,2,20
+"194","P.Mahomes","Behind LOS",101,85,84.1584158415842
+"195","P.Mahomes","LOS to 10yd",234,160,68.3760683760684
+"196","P.Mahomes","Over 50yd",4,0,0
+"197","P.Walker","10yd to 20yd",14,6,42.8571428571429
+"198","P.Walker","20yd to 30yd",7,1,14.2857142857143
+"199","P.Walker","Behind LOS",7,5,71.4285714285714
+"200","P.Walker","LOS to 10yd",25,18,72
+"201","R.Tannehill","10yd to 20yd",89,48,53.9325842696629
+"202","R.Tannehill","20yd to 30yd",21,7,33.3333333333333
+"203","R.Tannehill","30yd to 40yd",5,0,0
+"204","R.Tannehill","40yd to 50yd",6,3,50
+"205","R.Tannehill","Behind LOS",60,48,80
+"206","R.Tannehill","LOS to 10yd",206,150,72.8155339805825
+"207","R.Tannehill","Over 50yd",1,0,0
+"208","R.Wilson","10yd to 20yd",45,24,53.3333333333333
+"209","R.Wilson","20yd to 30yd",16,8,50
+"210","R.Wilson","30yd to 40yd",17,6,35.2941176470588
+"211","R.Wilson","40yd to 50yd",5,0,0
+"212","R.Wilson","Behind LOS",43,39,90.6976744186046
+"213","R.Wilson","LOS to 10yd",130,95,73.0769230769231
+"214","R.Wilson","Over 50yd",3,2,66.6666666666667
+"215","S.Darnold","10yd to 20yd",61,28,45.9016393442623
+"216","S.Darnold","20yd to 30yd",22,7,31.8181818181818
+"217","S.Darnold","30yd to 40yd",7,1,14.2857142857143
+"218","S.Darnold","40yd to 50yd",6,1,16.6666666666667
+"219","S.Darnold","Behind LOS",53,35,66.0377358490566
+"220","S.Darnold","LOS to 10yd",156,109,69.8717948717949
+"221","T.Brady","10yd to 20yd",107,58,54.2056074766355
+"222","T.Brady","20yd to 30yd",36,19,52.7777777777778
+"223","T.Brady","30yd to 40yd",14,4,28.5714285714286
+"224","T.Brady","40yd to 50yd",9,2,22.2222222222222
+"225","T.Brady","Behind LOS",98,89,90.8163265306122
+"226","T.Brady","LOS to 10yd",241,175,72.6141078838174
+"227","T.Brady","Over 50yd",2,0,0
+"228","T.Bridgewater","10yd to 20yd",69,42,60.8695652173913
+"229","T.Bridgewater","20yd to 30yd",30,12,40
+"230","T.Bridgewater","30yd to 40yd",7,1,14.2857142857143
+"231","T.Bridgewater","40yd to 50yd",8,1,12.5
+"232","T.Bridgewater","Behind LOS",54,43,79.6296296296296
+"233","T.Bridgewater","LOS to 10yd",209,155,74.1626794258373
+"234","T.Bridgewater","Over 50yd",2,1,50
+"235","T.Heinicke","10yd to 20yd",85,46,54.1176470588235
+"236","T.Heinicke","20yd to 30yd",28,12,42.8571428571429
+"237","T.Heinicke","30yd to 40yd",14,3,21.4285714285714
+"238","T.Heinicke","40yd to 50yd",5,1,20
+"239","T.Heinicke","Behind LOS",78,66,84.6153846153846
+"240","T.Heinicke","LOS to 10yd",181,139,76.7955801104972
+"241","T.Lawrence","10yd to 20yd",90,36,40
+"242","T.Lawrence","20yd to 30yd",32,13,40.625
+"243","T.Lawrence","30yd to 40yd",15,1,6.66666666666667
+"244","T.Lawrence","40yd to 50yd",2,0,0
+"245","T.Lawrence","Behind LOS",74,63,85.1351351351351
+"246","T.Lawrence","LOS to 10yd",210,132,62.8571428571429
+"247","T.Lawrence","Over 50yd",1,1,100
+"248","T.Siemian","10yd to 20yd",34,19,55.8823529411765
+"249","T.Siemian","20yd to 30yd",17,6,35.2941176470588
+"250","T.Siemian","30yd to 40yd",4,1,25
+"251","T.Siemian","Behind LOS",34,21,61.7647058823529
+"252","T.Siemian","LOS to 10yd",83,52,62.6506024096386
+"253","T.Tagovailoa","10yd to 20yd",58,27,46.551724137931
+"254","T.Tagovailoa","20yd to 30yd",13,8,61.5384615384615
+"255","T.Tagovailoa","30yd to 40yd",5,2,40
+"256","T.Tagovailoa","40yd to 50yd",1,1,100
+"257","T.Tagovailoa","Behind LOS",33,29,87.8787878787879
+"258","T.Tagovailoa","LOS to 10yd",164,128,78.0487804878049
+"259","Ty.Taylor","10yd to 20yd",16,6,37.5
+"260","Ty.Taylor","20yd to 30yd",6,0,0
+"261","Ty.Taylor","30yd to 40yd",3,0,0
+"262","Ty.Taylor","40yd to 50yd",1,1,100
+"263","Ty.Taylor","Behind LOS",14,11,78.5714285714286
+"264","Ty.Taylor","LOS to 10yd",64,42,65.625
+"265","Ty.Taylor","Over 50yd",1,0,0
+"266","Z.Wilson","10yd to 20yd",48,22,45.8333333333333
+"267","Z.Wilson","20yd to 30yd",20,12,60
+"268","Z.Wilson","30yd to 40yd",5,1,20
+"269","Z.Wilson","40yd to 50yd",5,1,20
+"270","Z.Wilson","Behind LOS",37,27,72.972972972973
+"271","Z.Wilson","LOS to 10yd",125,77,61.6
+"272","Z.Wilson","Over 50yd",2,1,50
